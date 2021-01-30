@@ -1,6 +1,6 @@
 # James Ballard
 ## Fullstack Software Engineer
-### Instructor for JavaScript/Python Curriculum at App Academy
+
 #### Technologies:
 - JavaScript, Node.js, Express, React, Redux, Sequelize
 - Python, Flask, SQLAlchemy
